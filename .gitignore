@@ -1,0 +1,10 @@
+#.gitignore for java
+*.class
+*.iml
+# Package Files #
+*.jar
+*.war
+target
+.idea
+dependency-reduced-pom.xml
+.DS_Store
